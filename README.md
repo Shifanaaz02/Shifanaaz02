@@ -13,7 +13,7 @@
 - 🏫 I'm in pursuing B Tech in Computer Science & Engineering 
 - 🌱 I’m currently learning **Data Structures and Algorithms with C++**
 
-- 💬 Ask me about **Resources for learning Web Development **
+- 💬 Ask me about **Resources for learning Web Development**
 
 - 📫 How to reach me **shifanaazsheikh02@gmail.com**
 
