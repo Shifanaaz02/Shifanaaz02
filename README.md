@@ -37,7 +37,7 @@
 
 </p>
 
-<img 
+<img width = "50%"
    src="https://github-readme-stats.vercel.app/api?username=Shifanaaz02&show_icons=true&theme=radical" 
 />
 ### My Youtube video 🌱
