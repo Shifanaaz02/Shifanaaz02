@@ -37,6 +37,9 @@
 
 </p>
 
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=Shifanaaz02&show_icons=true&theme=radical" 
+/>
 ### My Youtube video 🌱
 <!-- BLOG-POST-LIST:START -->
 - [Chocolate Problem](https://www.youtube.com/watch?v=TG45up7Rlrk)
@@ -46,7 +49,6 @@
 <!-- BLOG-POST-LIST:END -->
 </td>
 <td valign="top" width="50%">
-
 
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
