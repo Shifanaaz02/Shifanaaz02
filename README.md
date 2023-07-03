@@ -8,7 +8,7 @@
   <img width="40px" height="40px" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="hello">
   I am Shifa!</h3>
 
-  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ba/79/9d/ba799dc2be4ccf7996346fceb19b215f.jpg">
+  <!--<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ba/79/9d/ba799dc2be4ccf7996346fceb19b215f.jpg">-->
 
 - 🏫 I'm in pursuing B Tech in Computer Science & Engineering 
 - 🌱 I’m currently learning **Data Structures and Algorithms with C++**
