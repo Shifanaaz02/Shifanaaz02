@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Resources for learning Web Development**
 
-- 📫 How to reach me **shifanaazsheikh02@gmail.com**
+- 📫 How to reach me **shifanaazsheikh25@gmail.com**
 
 - ⚡ Fun fact **I think I am shy**
 
